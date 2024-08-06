@@ -1,4 +1,4 @@
-<h1 align="center"> [----- THE ULTIMATE DSA GUIDE -----] </h1>
+<h1 align="center"> THE ULTIMATE DSA GUIDE </h1>
 
 # BIG O (Space & Time Complexity)
 
