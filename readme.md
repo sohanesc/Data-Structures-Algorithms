@@ -1,7 +1,5 @@
-# [----- THE ULTIMATE DSA GUIDE -----]
+<h1 align="center"> [----- THE ULTIMATE DSA GUIDE -----] </h1>
 
-### Practice Link: https://instabyte.io/p/interview-master-100
----
 # BIG O (Space & Time Complexity)
 
 ### 1. O(1): Constant Time
@@ -11,6 +9,8 @@
 ### 5. O(n^2): Quadratic Time
 ### 6. O(2^n): Exponential Time
 ### 7. O(n!): Factorial Time
+
+<br>
 
 ---
 # DATA STRUCTURE
@@ -24,6 +24,8 @@
 ### 8. Graphs
 ### 9. Tries
 ### 10. Union Find
+
+<br>
 
 ---
 # ALGORITHMS
@@ -106,4 +108,5 @@ Solve: Sudoku solver, N-Queens problem, generating permutations.
 ---
 # Reference:
 ### Credit: Sahil & Sarra 
-#### (https://youtu.be/tNrNLoCqzco?si=kGs0rrOyeBktoo-O)
+#### Idea: https://youtu.be/tNrNLoCqzco?si=kGs0rrOyeBktoo-O
+### Practice Link: https://instabyte.io/p/interview-master-100
