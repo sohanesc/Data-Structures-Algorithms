@@ -36,8 +36,13 @@
 
 ### 1. Arrays
 #### Sorting:
+<<<<<<< HEAD
 - **QuickSort:** Efficient average-case time complexity (O(nlog n))
 - **MergeSort:** Stable sort, useful when order matters (O(nlog n))
+=======
+- **QuickSort:** Efficient average-case time complexity (O(n log n))
+- **MergeSort:** Stable sort, useful when order matters (O(n log n))
+>>>>>>> 7566ee974c71f3e11df89fe9ccf4cf6f0169ff18
 - **Searching:** [Binary Search] Fast search in sorted arrays (O(log n))
 - **Two Pointers:** In-place manipulation, often for sorted arrays (e.g., removing duplicates)
 - **Sliding Window:** Subarray problems, finding maximum/minimum within a window
