@@ -1,4 +1,4 @@
-<h1 align="center"> [----- THE ULTIMATE DSA GUIDE -----] </h1>
+[----- THE ULTIMATE DSA GUIDE -----]
 
 ### Practice Link: https://instabyte.io/p/interview-master-100
 ---
@@ -12,9 +12,6 @@
 ### 6. O(2^n): Exponential Time
 ### 7. O(n!): Factorial Time
 
-<br>
-<br>
-
 ---
 # DATA STRUCTURE
 ### 1. Arrays
@@ -27,9 +24,6 @@
 ### 8. Graphs
 ### 9. Tries
 ### 10. Union Find
-
-<br>
-<br>
 
 ---
 # ALGORITHMS
