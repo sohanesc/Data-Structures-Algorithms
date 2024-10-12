@@ -111,4 +111,4 @@ Solve: Sudoku solver, N-Queens problem, generating permutations.
 # Reference:
 ### Credit: Sahil & Sarra 
 #### Idea: https://youtu.be/tNrNLoCqzco?si=kGs0rrOyeBktoo-O
-### Practice Link: https://instabyte.io/p/interview-master-100
+### Practice Link: https://leetcode.com/problem-list/mcwij1rc/
