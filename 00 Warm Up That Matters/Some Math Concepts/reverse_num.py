@@ -1,4 +1,4 @@
-number = int(input("Enter the number: "))
+number = int(input("Enter number: "))
 
 reverse = 0
 while number > 0:
