@@ -14,7 +14,7 @@ def merge_python_files(source_folder, output_file):
                     outfile.write("\n\n")
 
 
-source_folder = r"C:\Users\sohan\Desktop\Start Over\Gain Knowledge\Software Engineering\00 Foundational Knowledge\Data Structures & Algorithms\DSA Problems and Solution\04 Doubly Linked Lists Probs"
+source_folder = r"C:\Users\sohan\Desktop\Start Over\Gain Knowledge\Software Engineering\00 Foundational Knowledge\Data Structures & Algorithms\DSA Problems and Solution\05 Circular Linked List Probs"
 output_file = "merged_assignment.py"
 
 merge_python_files(source_folder, output_file)
