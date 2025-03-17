@@ -1,6 +1,5 @@
 import os
 
-
 def merge_python_files(source_folder, output_file):
     folder_name = os.path.basename(source_folder)  # Extract the folder name
     with open(output_file, "w") as outfile:
