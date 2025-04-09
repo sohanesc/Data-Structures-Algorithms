@@ -3,7 +3,7 @@ Types of Data:
 Integer(int) - 5, 8, 0, -3, -1000
 Float (float) - 5. 5, 3.14, 5.6793
 Complex Numbers
-String (str) - "Sohan", "Code & Math", "a", 'Someone'
+String (str) - "Something", "Code & Math", "a", 'Someone', " ", ' '
 Booleans (bool) - True, False
 List
 Tuple
