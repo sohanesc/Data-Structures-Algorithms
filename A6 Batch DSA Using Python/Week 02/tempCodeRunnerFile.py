@@ -1,2 +1,2 @@
 
-    #     print(j - 1, end=" ")
+        #     print(j, end=" ")
